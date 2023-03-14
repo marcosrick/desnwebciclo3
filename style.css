@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Shantell+Sans:wght@300&display=swap');
+
+* {
+    font-family: 'Times New Roman', cursive;    
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color: #cecece;
+    background-image: url('fundo.jpg');   
+    background-color: #fff;   
+}
+
+h1 {
+    margin-top: 90px;
+    font-size: 100px;
+    margin-bottom:50px;
+}
+
+input {
+    font-size: 30px;
+    margin-top: 0px;
+    margin-bottom: 40px;
+    width: 460px;
+}
+
+.exit {   
+    padding: 30px 15px;    
+    margin-top:-20px;
+}
